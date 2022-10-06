@@ -1,0 +1,5 @@
+let state = 0;
+
+if(state === "Arkansas") {
+	alert("It's Arkansas!");
+}
